@@ -1,4 +1,4 @@
-1Password Login on New Phone
+How to Login 1Password on New Phone?
 ------------------------------------------------------------------
 
 .. toctree::
